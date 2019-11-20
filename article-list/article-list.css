@@ -1,0 +1,21 @@
+main article {
+    display: flex;
+}
+
+main article>div {
+    font-size: 1.5em;
+    margin: 20px 10px;
+}
+
+main article span.favorite {
+    color: #f00;
+}
+
+main article figure {
+    margin: 15px;
+}
+
+main article section h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
